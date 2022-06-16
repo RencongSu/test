@@ -3,8 +3,6 @@
 int main() {
 
 	printf("base function : ");
-	
-	printf("Hello world! ");
 
 	func1();
 	
